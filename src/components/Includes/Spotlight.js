@@ -22,7 +22,7 @@ export default function Spotlight() {
         <SubContainer>
                 <Small>Hi !</Small>
                 <Hedaing>I'm Ali Akbar</Hedaing>
-                <Paragraph>Full-Stack Develpoer</Paragraph>
+                <Paragraph>Full-Stack Developer</Paragraph>
                 <ButtonContiner>
                     <NavLink    className={({ isActive }) => (isActive ? "active" : "")} to="Project/">
                         <Button1>Project</Button1>
